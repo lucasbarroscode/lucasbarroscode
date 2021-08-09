@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on software develope
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: lucasbabezerra@gmail.com
-- ⚡ Fun fact: ...
+
 
